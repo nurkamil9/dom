@@ -162,3 +162,4 @@ const boats=new boat({
 })
 
 console.log(boats);
+
